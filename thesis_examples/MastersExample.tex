@@ -78,9 +78,9 @@
 
 \begin{document}
 
-\input{inc/DaimData} % this is the file which contains all the details about your thesis
+\input{chapters/DaimData} % this is the file which contains all the details about your thesis
 \makefrontpages % make the frontpages
-\input{inc/mastersIntro}
+\input{chapters/mastersIntro}
 
 \tableofcontents
 
@@ -91,12 +91,12 @@
 \listoftables
 
 
-\include{inc/introduction} % includes latex files from the same directory
-\include{inc/packages} % could be called Methodology or methods or any filename 
-\include{inc/structure} % could be results
-\include{inc/implementation}
-\include{inc/discussion}
-\include{inc/conclusion}
+\include{chapters/introduction} % includes latex files from the same directory
+\include{chapters/packages} % could be called Methodology or methods or any filename 
+\include{chapters/structure} % could be results
+\include{chapters/implementation}
+\include{chapters/discussion}
+\include{chapters/conclusion}
 
 \ifthenelse{\boolean{HarvardCitations}}{%
 	\bibliographystyle{agsm} % used for Harvard style references. Names - Humanities & Interaction Design
@@ -107,7 +107,7 @@
 \bibliography{MastersExample}
 
 \appendix
-\include{inc/rawdata}
-%\include{inc/timetable}
+\include{chapters/rawdata}
+%\include{chapters/timetable}
 
 \end{document}
