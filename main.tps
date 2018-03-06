@@ -32,7 +32,7 @@ NormalPos.top=26
 NormalPos.right=1066
 NormalPos.bottom=242
 Class=LaTeXView
-Document=MastersExample.tex
+Document=main.tex
 
 [Frame1_View0,0]
 TopLine=81

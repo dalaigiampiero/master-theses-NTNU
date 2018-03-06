@@ -1,6 +1,3 @@
-%% This document gives an example on how to use the ntnumasterthesis
-%% LaTeX document class.
-
 %% Use short name MACS, MIS, CIMET, MTDMT, MIXD or MIS  
 %% Language english or norsk
 %% b5paper with oneside or twoside, you can set A4 if you want but you submit in b5
@@ -9,7 +6,7 @@
 %% \documentclass[MACS,english,a4paper,oneside,12pt]{ntnuthesis/ntnuthesis}
 
 %% with the change to using DAIM we have a new option. include DAIM after english below removes the front page material so that you can then submit in the DAIM system. If you are wanting the front material remove DAIM and make sure you fill in the DaimData.tex file.
-\documentclass[MACS,english,DAIM]{ntnuthesis/ntnuthesis}
+\documentclass[MIXD,english,DAIM]{ntnuthesis/ntnuthesis}
 
 \usepackage[T1]{fontenc}
 \usepackage[utf8]{inputenc}     % For utf8 encoded .tex files allows norwegian characters in the files. This can be dangerous if you change to a differnt editor.
@@ -63,7 +60,7 @@
 
 % Set to true ONLY if using Harvard citation style
 \newboolean{HarvardCitations}
-\setboolean{HarvardCitations}{false} % false for computer science, true for interaction design and harvard style
+\setboolean{HarvardCitations}{true} % false for computer science, true for interaction design and harvard style
 
 
 \ifthenelse{\boolean{HarvardCitations}}{%
@@ -76,7 +73,7 @@
 \renewcommand{\q}[1]{}
 
 
-\begin{document}
+\begin{document} %% START OF THE BUILDING BLOCKS -----------------------------
 
 \input{chapters/DaimData} % this is the file which contains all the details about your thesis
 \makefrontpages % make the frontpages
@@ -91,10 +88,11 @@
 \listoftables
 
 
-\include{chapters/introduction} % includes latex files from the same directory
-\include{chapters/packages} % could be called Methodology or methods or any filename 
-\include{chapters/structure} % could be results
-\include{chapters/implementation}
+\include{chapters/introduction}
+\include{chapters/background}
+\include{chapters/methods}
+\include{chapters/framework}
+\include{chapters/experimentation}
 \include{chapters/discussion}
 \include{chapters/conclusion}
 
@@ -104,10 +102,10 @@
 	\bibliographystyle{ntnuthesis/ntnuthesis} %used for Vancover style references. Numbers - Computer Science & Physics
 }
 
-\bibliography{bibliography}
+\bibliography{master_thesis_bibliography}
 
 \appendix
-\include{chapters/rawdata}
+%\include{chapters/rawdata}
 %\include{chapters/timetable}
 
 \end{document}
