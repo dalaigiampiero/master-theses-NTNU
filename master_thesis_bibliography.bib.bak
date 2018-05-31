@@ -1033,6 +1033,22 @@
   url       = {https://doi.org/10.1007/978-3-319-21368-2\_7},
 }
 
+@Article{merin2007fixation,
+  title    = {Visual Fixation Patterns during Reciprocal Social Interaction Distinguish a Subgroup of 6-Month-Old Infants At-Risk for Autism from Comparison Infants},
+  author   = {Merin,Noah and Young,Gregory S. and Ozonoff,Sally and Rogers,Sally J.},
+  year     = {2007},
+  journal  = {Journal of Autism and Developmental Disorders},
+  volume   = {37},
+  number   = {1},
+  pages    = {108-21},
+  month    = {01},
+  abstract = {Issue Title: Special Issue: Early Autism Phenotype Thirty-one infant siblings of children with autism and 24 comparison infants were tested at 6 months of age during social interaction with a caregiver, using a modified Still Face paradigm conducted via a closed-circuit TV-video system. In the Still Face paradigm, the mother interacts with the infant, then freezes and displays a neutral, expressionless face, then resumes interaction. Eye tracking data on infant visual fixation patterns were recorded during the three episodes of the experiment. Using a hierarchical cluster analysis, we identified a subgroup of infants demonstrating diminished gaze to the mother's eyes relative to her mouth during the Still Face episode. Ten out of the 11 infants in this subgroup had an older sibling with autism.},
+  isbn     = {01623257},
+  keywords = {Medical Sciences--Psychiatry And Neurology; Phenotype; Time Factors; Humans; Risk Factors; Questionnaires; Female; Infant; Male; Smiling; Affect; Autistic Disorder -- diagnosis; Facial Expression; Mass Screening -- methods; Autistic Disorder -- epidemiology; Fixation, Ocular; Interpersonal Relations},
+  language = {English},
+  url      = {https://search.proquest.com/docview/205303911?accountid=12870},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}
 
 @Comment{jabref-meta: grouping:
