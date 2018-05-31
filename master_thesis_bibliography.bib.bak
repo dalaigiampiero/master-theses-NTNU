@@ -1,6 +1,6 @@
 % Encoding: UTF-8
 
-@MastersThesis{Andreassen2012,
+@MastersThesis{andreassen2012perception,
   author  = {Andreassen, Marita},
   title   = {Perception of other people's attention direction in typically developing children and children with autism: an eye-tracking study},
   school  = {Universitetet i Oslo},
@@ -8,7 +8,7 @@
   address = {Oslo},
 }
 
-@Book{RN34,
+@Book{apa2013dsm5,
   title     = {Diagnostic and statistical manual of mental disorders : DSM-5},
   publisher = {American Psychiatric Association},
   year      = {2013},
@@ -19,18 +19,19 @@
   type      = {Book},
 }
 
-@Misc{RN33,
+@Misc{apa2017diagnosis,
   author       = {APA},
   title        = {Diagnosing and managing autism spectrum disorder (ASD)},
   howpublished = {Online},
   month        = sep,
   year         = {2017},
+  groups       = {NordiCHI 2018},
   timestamp    = {2017-09-28},
   type         = {Web Page},
   url          = {http://www.apa.org/helpcenter/autism.aspx},
 }
 
-@Book{RN48,
+@Book{baxter2015understanding,
   title     = {Understanding Your Users: A Practical Guide to User Research Methods},
   publisher = {Elsevier},
   year      = {2015},
@@ -42,7 +43,7 @@
   url       = {https://books.google.no/books?id=wHjYrQEACAAJ},
 }
 
-@Book{RN37,
+@Book{benyon2014designing,
   title     = {Designing Interactive Systems: A Comprehensive Guide to HCI, UX and Interaction Design},
   publisher = {Pearson Education},
   year      = {2014},
@@ -54,7 +55,7 @@
   url       = {https://books.google.no/books?id=HeW6mgEACAAJ},
 }
 
-@Article{RN8,
+@Article{birmingham2017gazeselection,
   title   = {Spontaneous gaze selection and following during naturalistic social interactions in school-aged children and adolescents with autism spectrum disorder},
   author  = {Birmingham, Elina and Johnston, Krista Haley Smith and Iarocci, Grace},
   year    = {2017},
@@ -67,7 +68,7 @@
   type    = {Journal Article},
 }
 
-@Article{RN9,
+@Article{bolte2016detection,
   title   = {How can clinicians detect and treat autism early? Methodological trends of technology use in research},
   author  = {Bölte, S. and Bartl-Pokorny, K. D. and Jonsson, U. and Berggren, S. and Zhang, D. and Kostrzewa, E. and Falck-Ytter, T. and Einspieler, C. and Pokorny, F. B. and Jones, E. J. H. and Roeyers, H. and Charman, T. and Marschik, P. B.},
   year    = {2016},
@@ -78,11 +79,12 @@
   month   = {dec},
   issn    = {1651-2227},
   doi     = {10.1111/apa.13243},
+  groups  = {NordiCHI 2018},
   type    = {Journal Article},
   url     = {http://dx.doi.org/10.1111/apa.13243},
 }
 
-@Article{RN10,
+@Article{boraston2007eyetrackingASD,
   title   = {The application of eye-tracking technology in the study of autism},
   author  = {Boraston, Zillah and Blakemore, Sarah-Jayne},
   year    = {2007},
@@ -92,11 +94,12 @@
   pages   = {893-898},
   issn    = {1469-7793},
   doi     = {10.1113/jphysiol.2007.133587},
+  groups  = {NordiCHI 2018},
   type    = {Journal Article},
   url     = {http://dx.doi.org/10.1113/jphysiol.2007.133587},
 }
 
-@Article{RN11,
+@Article{brenner2007visualsearch,
   title   = {Eye Movement and Visual Search: Are There Elementary Abnormalities in Autism?},
   author  = {Brenner, Laurie A. and Turner, Katherine C. and Müller, Ralph-Axel},
   year    = {2007},
@@ -106,12 +109,11 @@
   pages   = {1289-309},
   issn    = {01623257},
   doi     = {http://dx.doi.org/10.1007/s10803-006-0277-9},
+  groups  = {NordiCHI 2018},
   type    = {Journal Article},
-  url     = {https://search.proquest.com/docview/205304682?accountid=12870
-https://bibsys-almaprimo.hosted.exlibrisgroup.com/openurl/NTNU_UB/NTNU_UB_services_page?url_ver=Z39.88-2004&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&genre=article&sid=ProQ:ProQ%3Amedical&atitle=Eye+Movement+and+Visual+Search%3A+Are+There+Elementary+Abnormalities+in+Autism%3F&title=Journal+of+Autism+and+Developmental+Disorders&issn=01623257&date=2007-08-01&volume=37&issue=7&spage=1289&au=Brenner%2C+Laurie+A%3BTurner%2C+Katherine+C%3BM%C3%BCller%2C+Ralph-Axel&isbn=&jtitle=Journal+of+Autism+and+Developmental+Disorders&btitle=&rft_id=info:eric/17120149&rft_id=info:doi/10.1007%2Fs10803-006-0277-9},
 }
 
-@InProceedings{RN52,
+@InProceedings{cai2015gazeestimation,
   author    = {Cai, H. and Zhou, X. and Yu, H. and Liu, H.},
   title     = {Gaze estimation driven solution for interacting children with ASD},
   booktitle = {International Symposium on Micro-NanoMechatronics and Human Science (MHS)},
@@ -121,7 +123,7 @@ https://bibsys-almaprimo.hosted.exlibrisgroup.com/openurl/NTNU_UB/NTNU_UB_servic
   type      = {Conference Proceedings},
 }
 
-@Article{RN1,
+@Article{chitategmark2016socialattention,
   title   = {Social attention in ASD: A review and meta-analysis of eye-tracking studies},
   author  = {Chita-Tegmark, Meia},
   year    = {2016},
@@ -131,11 +133,12 @@ https://bibsys-almaprimo.hosted.exlibrisgroup.com/openurl/NTNU_UB/NTNU_UB_servic
   pages   = {79-93},
   issn    = {0891-4222},
   doi     = {https://doi.org/10.1016/j.ridd.2015.10.011},
+  groups  = {NordiCHI 2018},
   type    = {Journal Article},
   url     = {http://www.sciencedirect.com/science/article/pii/S0891422215001821},
 }
 
-@InProceedings{RN54,
+@InProceedings{damm2013gazebehavior,
   author    = {Oliver Damm and Karoline Malchus and Petra Jaecks and Soeren Krach and Frieder Paulus and Marnix Naber and Andreas Jansen and Inge Kamp-Becker and Wolfgang Einhaeuser-Treyer and Prisca Stenneken and Britta Wrede},
   title     = {Different gaze behavior in human-robot interaction in Asperger's syndrome: An eye-tracking study},
   booktitle = {IEEE RO-MAN: The 22nd IEEE International Symposium on Robot and Human Interactive Communication},
@@ -147,7 +150,7 @@ https://bibsys-almaprimo.hosted.exlibrisgroup.com/openurl/NTNU_UB/NTNU_UB_servic
   type      = {Conference Proceedings},
 }
 
-@MastersThesis{RN50,
+@MastersThesis{viveka2017mentalworkload,
   author   = {De Alwis Edirisinghe, Viveka},
   title    = {Estimating Mental Workload of University Students using Eye Parameters},
   school   = {NTNU i Gjøvik},
@@ -158,7 +161,7 @@ https://bibsys-almaprimo.hosted.exlibrisgroup.com/openurl/NTNU_UB/NTNU_UB_servic
   keywords = {Interaksjonsdesign},
 }
 
-@Article{RN63,
+@Article{dindar2017interactional,
   title   = {An interactional “live eye tracking” study in autism spectrum disorder: combining qualitative and quantitative approaches in the study of gaze},
   author  = {Dindar, Katja and Korkiakangas, Terhi and Laitila, Aarno and Kärnä, Eija},
   year    = {2017},
@@ -172,18 +175,18 @@ https://bibsys-almaprimo.hosted.exlibrisgroup.com/openurl/NTNU_UB/NTNU_UB_servic
   url     = {https://doi.org/10.1080/14780887.2017.1290174},
 }
 
-@Misc{RN14,
-  author       = {Norwegian National Committees for Research Ethics},
+@Misc{etikkom2014guidelines,
+  author       = {{Norwegian Nationa Committees for Research Ethics}},
   title        = {General guidelines for research ethics},
   howpublished = {Online},
   month        = nov,
   year         = {2014},
   timestamp    = {2017-11-28},
   type         = {Web Page},
-  url          = {www.etikkom.no/en/ethical-guidelines-for-research/general-guidelines-for-research-ethics/},
+  url          = {https://www.etikkom.no/en/ethical-guidelines-for-research/general-guidelines-for-research-ethics/},
 }
 
-@Article{RN12,
+@Article{falck-ytter2013eyetrackingASD,
   title   = {Eye tracking in early autism research},
   author  = {Falck-Ytter, Terje and Bölte, Sven and Gredebäck, Gustaf},
   year    = {2013},
@@ -193,11 +196,12 @@ https://bibsys-almaprimo.hosted.exlibrisgroup.com/openurl/NTNU_UB/NTNU_UB_servic
   pages   = {28},
   issn    = {1866-1955},
   doi     = {10.1186/1866-1955-5-28},
+  groups  = {NordiCHI 2018},
   type    = {Journal Article},
   url     = {https://doi.org/10.1186/1866-1955-5-28},
 }
 
-@Article{RN13,
+@Article{frazier2017socialgaze,
   title   = {A Meta-Analysis of Gaze Differences to Social and Nonsocial Information Between Individuals With and Without Autism},
   author  = {Frazier, Thomas W. and Strauss, Mark and Klingemier, Eric W. and Zetzer, Emily E. and Hardan, Antonio Y. and Eng, Charis and Youngstrom, Eric A.},
   year    = {2017},
@@ -207,25 +211,12 @@ https://bibsys-almaprimo.hosted.exlibrisgroup.com/openurl/NTNU_UB/NTNU_UB_servic
   pages   = {546-555},
   issn    = {0890-8567},
   doi     = {https://doi.org/10.1016/j.jaac.2017.05.005},
+  groups  = {NordiCHI 2018},
   type    = {Journal Article},
   url     = {http://www.sciencedirect.com/science/article/pii/S0890856717302071},
 }
 
-@Article{RN40,
-  title   = {A Meta-Analysis of Gaze Differences to Social and Nonsocial Information Between Individuals With and Without Autism},
-  author  = {Frazier, Thomas W. and Strauss, Mark and Klingemier, Eric W. and Zetzer, Emily E. and Hardan, Antonio Y. and Eng, Charis and Youngstrom, Eric A.},
-  year    = {2017},
-  journal = {Journal of the American Academy of Child \& Adolescent Psychiatry},
-  volume  = {56},
-  number  = {7},
-  pages   = {546-555},
-  issn    = {0890-8567},
-  doi     = {https://doi.org/10.1016/j.jaac.2017.05.005},
-  type    = {Journal Article},
-  url     = {http://www.sciencedirect.com/science/article/pii/S0890856717302071},
-}
-
-@Article{RN62,
+@Article{freedman2017biomarkers,
   title     = {Eye movements, sensorimotor adaptation and cerebellar-dependent learning in autism: toward potential biomarkers and subphenotypes},
   author    = {Freedman, Edward G. and Foxe, John J.},
   year      = {2017},
@@ -239,7 +230,7 @@ https://bibsys-almaprimo.hosted.exlibrisgroup.com/openurl/NTNU_UB/NTNU_UB_servic
   url       = {http://dx.doi.org/10.1111/ejn.13625},
 }
 
-@Article{RN26,
+@Article{gliga2015visualsearch,
   title   = {Enhanced Visual Search in Infancy Predicts Emerging Autism Symptoms},
   author  = {Gliga, Teodora and Bedford, Rachael and Charman, Tony and Johnson, Mark H},
   year    = {2015},
@@ -253,7 +244,7 @@ https://bibsys-almaprimo.hosted.exlibrisgroup.com/openurl/NTNU_UB/NTNU_UB_servic
   url     = {http://www.sciencedirect.com/science/article/pii/S0960982215005552},
 }
 
-@Article{RN27,
+@Article{goldberg2002initiation,
   title   = {Deficits in the initiation of eye movements in the absence of a visual target in adolescents with high functioning autism},
   author  = {Goldberg, M. C. and Lasker, A. G. and Zee, D. S. and Garth, E. and Tien, A. and Landa, R. J.},
   year    = {2002},
@@ -267,7 +258,7 @@ https://bibsys-almaprimo.hosted.exlibrisgroup.com/openurl/NTNU_UB/NTNU_UB_servic
   url     = {http://www.sciencedirect.com/science/article/pii/S0028393202000593},
 }
 
-@Article{RN28,
+@Article{horling2014embeddedfigures,
   title   = {Visual search strategies of children with and without autism spectrum disorders during an embedded figures task},
   author  = {Horlin, Chiara and Albrecht, Matthew A. and Falkmer, Marita and Leung, Denise and Ordqvist, Anna and Tan, Tele and Lee, Wee Lih and Falkmer, Torbjorn},
   year    = {2014},
@@ -281,7 +272,7 @@ https://bibsys-almaprimo.hosted.exlibrisgroup.com/openurl/NTNU_UB/NTNU_UB_servic
   url     = {http://www.sciencedirect.com/science/article/pii/S1750946714000178},
 }
 
-@Book{RN21,
+@Book{jesson2011literaturereview,
   title     = {Doing Your Literature Review: Traditional and Systematic Techniques},
   publisher = {SAGE Publications},
   year      = {2011},
@@ -292,7 +283,7 @@ https://bibsys-almaprimo.hosted.exlibrisgroup.com/openurl/NTNU_UB/NTNU_UB_servic
   url       = {https://books.google.lv/books?id=NAYrLb8qsd4C},
 }
 
-@Article{RN39,
+@Article{johnson2016review,
   title   = {Ocular motor disturbances in autism spectrum disorders: Systematic review and comprehensive meta-analysis},
   author  = {Johnson, Beth P. and Lum, Jarrad A. G. and Rinehart, Nicole J. and Fielding, Joanne},
   year    = {2016},
@@ -302,11 +293,12 @@ https://bibsys-almaprimo.hosted.exlibrisgroup.com/openurl/NTNU_UB/NTNU_UB_servic
   pages   = {260-279},
   issn    = {0149-7634},
   doi     = {https://doi.org/10.1016/j.neubiorev.2016.08.007},
+  groups  = {NordiCHI 2018},
   type    = {Journal Article},
   url     = {http://www.sciencedirect.com/science/article/pii/S0149763416302263},
 }
 
-@Article{RN5,
+@Article{jones2008preferencesocial,
   title   = {Absence of preferential looking to the eyes of approaching adults predicts level of social disability in 2-year-old toddlers with autism spectrum disorder},
   author  = {Jones, W. and Carr, K. and Klin, A.},
   year    = {2008},
@@ -320,7 +312,7 @@ https://bibsys-almaprimo.hosted.exlibrisgroup.com/openurl/NTNU_UB/NTNU_UB_servic
   url     = {http://dx.doi.org/10.1001/archpsyc.65.8.946},
 }
 
-@Article{RN29,
+@Article{joseph2009visualsearch,
   title   = {Why is visual search superior in autism spectrum disorder?},
   author  = {Joseph, Robert M. and Keehn, Brandon and Connolly, Christine and Wolfe, Jeremy M. and Horowitz, Todd S.},
   year    = {2009},
@@ -334,7 +326,7 @@ https://bibsys-almaprimo.hosted.exlibrisgroup.com/openurl/NTNU_UB/NTNU_UB_servic
   url     = {http://dx.doi.org/10.1111/j.1467-7687.2009.00855.x},
 }
 
-@Article{RN59,
+@Article{kemner1998saccades,
   title   = {Abnormal Saccadic Eye Movements in Autistic Children},
   author  = {Kemner, C. and Verbaten, M. N. and Cuperus, J. M. and Camfferman, G. and van Engeland, H.},
   year    = {1998},
@@ -346,7 +338,7 @@ https://bibsys-almaprimo.hosted.exlibrisgroup.com/openurl/NTNU_UB/NTNU_UB_servic
   url     = {https://search.proquest.com/docview/205281301?accountid=12870},
 }
 
-@Article{RN61,
+@Article{lahiri2011interactive,
   title   = {Design of a Gaze-Sensitive Virtual Social Interactive System for Children With Autism},
   author  = {Lahiri, U. and Warren, Z. and Sarkar, N.},
   year    = {2011},
@@ -358,7 +350,7 @@ https://bibsys-almaprimo.hosted.exlibrisgroup.com/openurl/NTNU_UB/NTNU_UB_servic
   type    = {Journal Article},
 }
 
-@Book{RN38,
+@Book{lazar2010researchmethods,
   title     = {Research Methods in Human-Computer Interaction},
   publisher = {John Wiley \& Sons},
   year      = {2010},
@@ -366,10 +358,10 @@ https://bibsys-almaprimo.hosted.exlibrisgroup.com/openurl/NTNU_UB/NTNU_UB_servic
   address   = {Chirchester, UK},
   isbn      = {9780470723371},
   type      = {Book},
-  url       = {https://books.google.no/books?id=H_r6prUFpc4C},
+  url       = {https://books.google.no/books?id=H\_r6prUFpc4C},
 }
 
-@Book{RN23,
+@Book{leedy2012practicalresearch,
   title     = {Practical research: planning and design},
   publisher = {Pearson Education, Inc},
   year      = {2012},
@@ -379,7 +371,7 @@ https://bibsys-almaprimo.hosted.exlibrisgroup.com/openurl/NTNU_UB/NTNU_UB_servic
   type      = {Book},
 }
 
-@InProceedings{RN41,
+@InProceedings{liu2015machinelearning,
   author    = {Liu, W. and Yu, X. and Raj, B. and Yi, L. and Zou, X. and Li, M.},
   title     = {Efficient autism spectrum disorder prediction with eye movement: A machine learning framework},
   booktitle = {International Conference on Affective Computing and Intelligent Interaction (ACII)},
@@ -389,7 +381,7 @@ https://bibsys-almaprimo.hosted.exlibrisgroup.com/openurl/NTNU_UB/NTNU_UB_servic
   type      = {Conference Proceedings},
 }
 
-@Article{RN16,
+@Article{lord2000ADOS,
   title   = {The Autism Diagnostic Observation Schedule—Generic: A Standard Measure of Social and Communication Deficits Associated with the Spectrum of Autism},
   author  = {Lord, Catherine and Risi, Susan and Lambrecht, Linda and Cook, Edwin H. and Leventhal, Bennett L. and DiLavore, Pamela C. and Pickles, Andrew and Rutter, Michael},
   year    = {2000},
@@ -403,7 +395,7 @@ https://bibsys-almaprimo.hosted.exlibrisgroup.com/openurl/NTNU_UB/NTNU_UB_servic
   url     = {https://doi.org/10.1023/A:1005592401947},
 }
 
-@Article{RN45,
+@Article{nakan02011blinks,
   title   = {Lack of eyeblink entrainments in autism spectrum disorders},
   author  = {Nakano, Tamami and Kato, Nobumasa and Kitazawa, Shigeru},
   year    = {2011},
@@ -417,7 +409,7 @@ https://bibsys-almaprimo.hosted.exlibrisgroup.com/openurl/NTNU_UB/NTNU_UB_servic
   url     = {http://www.sciencedirect.com/science/article/pii/S0028393211002818},
 }
 
-@InProceedings{RN3,
+@InProceedings{noris2011naturalistic,
   author    = {Noris, Basilio and Barker, Mandy and Nadel, Jacqueline and Hentsch, François and Ansermet, François and Billard, Aude},
   title     = {Measuring gaze of children with autism spectrum disorders in naturalistic interactions},
   booktitle = {2011 Annual International Conference of the IEEE Engineering in Medicine and Biology Society},
@@ -428,7 +420,7 @@ https://bibsys-almaprimo.hosted.exlibrisgroup.com/openurl/NTNU_UB/NTNU_UB_servic
   type      = {Conference Proceedings},
 }
 
-@Article{RN46,
+@Article{nuske2014pupil,
   title   = {Pupillometry reveals reduced unconscious emotional reactivity in autism},
   author  = {Nuske, Heather J. and Vivanti, Giacomo and Hudry, Kristelle and Dissanayake, Cheryl},
   year    = {2014},
@@ -442,14 +434,17 @@ https://bibsys-almaprimo.hosted.exlibrisgroup.com/openurl/NTNU_UB/NTNU_UB_servic
   url     = {http://www.sciencedirect.com/science/article/pii/S0301051114001483},
 }
 
-@Book{RN53,
-  title  = {International statistical classification of diseases and related health problems. - 10th revision,},
-  year   = {2010},
-  author = {World Health Organization},
-  type   = {Book},
+@Book{who2016ICD10,
+  title     = {International statistical classification of diseases and related health problems. 10th revision},
+  publisher = {World Health Organization},
+  year      = {2016},
+  author    = {{World Health Organization}},
+  address   = {Geneva},
+  type      = {Book},
+  url       = {http://apps.who.int/classifications/icd10/browse/2016/en/\#F84.0},
 }
 
-@Article{RN2,
+@Article{papagiannopoulou2014review,
   title   = {A systematic review and meta-analysis of eye-tracking studies in children with autism spectrum disorders},
   author  = {Papagiannopoulou, Eleni A. and Chitty, Kate M. and Hermens, Daniel F. and Hickie, Ian B. and Lagopoulos, Jim},
   year    = {2014},
@@ -459,11 +454,12 @@ https://bibsys-almaprimo.hosted.exlibrisgroup.com/openurl/NTNU_UB/NTNU_UB_servic
   pages   = {610-632},
   issn    = {1747-0919},
   doi     = {10.1080/17470919.2014.934966},
+  groups  = {NordiCHI 2018},
   type    = {Journal Article},
   url     = {http://dx.doi.org/10.1080/17470919.2014.934966},
 }
 
-@Article{RN7,
+@Article{pierce2011geometricpatterns,
   title   = {Preference for geometric patterns early in life as a risk factor for autism},
   author  = {Pierce, K. and Conant, D. and Hazin, R. and Stoner, R. and Desmond, J.},
   year    = {2011},
@@ -477,7 +473,7 @@ https://bibsys-almaprimo.hosted.exlibrisgroup.com/openurl/NTNU_UB/NTNU_UB_servic
   url     = {http://dx.doi.org/10.1001/archgenpsychiatry.2010.113},
 }
 
-@Article{RN25,
+@Article{pieron2015saccades,
   title   = {Accelerated time course of saccadic inhibition of return in individuals with autism spectrum disorders},
   author  = {Pieron, Marie and Seassau, Magali and Leboyer, Marion and Zalla, Tiziana},
   year    = {2015},
@@ -491,7 +487,7 @@ https://bibsys-almaprimo.hosted.exlibrisgroup.com/openurl/NTNU_UB/NTNU_UB_servic
   url     = {https://doi.org/10.1007/s00221-014-4152-1},
 }
 
-@MastersThesis{RN51,
+@MastersThesis{rudsengen2009thesis,
   author   = {Rudsengen, Bjørnar},
   title    = {Instruksjonssensitivitet og betraktning av sosiale scener i statiske bilder hos barn med autismespekterforstyrrelser},
   school   = {Høgskolen i Gjøvik},
@@ -501,7 +497,7 @@ https://bibsys-almaprimo.hosted.exlibrisgroup.com/openurl/NTNU_UB/NTNU_UB_servic
   keywords = {medieteknikk autismespekterforstyrrelser eyetracking blikkatferd},
 }
 
-@Book{RN19,
+@Book{rutter2003SCQ,
   title     = {The social communication questionnaire},
   publisher = {Western Psychological Services},
   year      = {2003},
@@ -510,7 +506,7 @@ https://bibsys-almaprimo.hosted.exlibrisgroup.com/openurl/NTNU_UB/NTNU_UB_servic
   type      = {Book},
 }
 
-@Book{RN18,
+@Book{rutter2003ADI-R,
   title     = {Autism diagnostic interview-revised},
   publisher = {Western Psychological Services},
   year      = {2003},
@@ -519,9 +515,9 @@ https://bibsys-almaprimo.hosted.exlibrisgroup.com/openurl/NTNU_UB/NTNU_UB_servic
   type      = {Book},
 }
 
-@Article{RN36,
+@Article{samad2017markers,
   title    = {A Feasibility Study of Autism Behavioral Markers in Spontaneous Facial, Visual, and Hand Movement Response Data},
-  author   = {Samad, M. D. and Diawara, N. and Bobzien, J. L. and Harrington, J. W. and Witherow, M. A. and Iftekharuddin, K. M.},
+  author   = {Manar D. Samad and Norou Diawara and Jonna L. Bobzien and John W. Harrington and Megan A. Witherow and Khan M. Iftekharuddin},
   year     = {2017},
   journal  = {IEEE Transactions on Neural Systems and Rehabilitation Engineering},
   volume   = {PP},
@@ -530,21 +526,22 @@ https://bibsys-almaprimo.hosted.exlibrisgroup.com/openurl/NTNU_UB/NTNU_UB_servic
   issn     = {1534-4320},
   doi      = {10.1109/TNSRE.2017.2768482},
   abstract = {Autism Spectrum Disorder (ASD) is a neurodevelopmental disability with atypical traits in behavioral and physiological responses. These atypical traits in individuals with ASD may be too subtle and subjective to measure visually using tedious methods of scoring. Alternatively, the use of intrusive sensors in the measurement of psychophysical responses in individuals with ASD may likely cause inhibition and bias. This work proposes a novel experimental protocol for non-intrusive sensing and analysis of facial expression, visual scanning, and eye-hand coordination to investigate behavioral markers for ASD. An institutional review board (IRB) approved pilot study is conducted to collect the response data from two groups of subjects (ASD and Control) while they engage in tasks of visualization, recognition, and manipulation. For the first time in the ASD literature, the facial action coding system (FACS) is used to classify spontaneous facial responses. Statistical analyses reveal significantly (p&#x003C;0.01) higher prevalence of smile expression for the group with ASD with the eye-gaze significantly averted (p&#x003C;0.05) from viewing the face in the visual stimuli. This uncontrolled manifestation of smile without proper visual engagement suggests an impairment in reciprocal social communication, e.g., social smile. The group with ASD also reveals poor correlation in eye-gaze and hand movement data suggesting deficits in motor coordination while performing a dynamic manipulation task. The simultaneous sensing and analysis of multimodal response data may provide useful quantitative insights into ASD to facilitate early detection of symptoms for effective intervention planning.},
+  groups   = {NordiCHI 2018},
   keywords = {Electromyography Face Sensors TV Variable speed drives Visualization Autism Spectrum Disorders Behavioral marker Eye-hand coordination Eye-tracking Facial action coding Multimodal physiological measurement Psychophysical study},
   type     = {Journal Article},
 }
 
-@Book{RN22,
+@Book{schopler1979assessment,
   title     = {Individualized Assessment and Treatment for Autistic and Developmentally Disabled Children},
   publisher = {University Park Press},
   year      = {1979},
   author    = {Schopler, Eric and Reichler, Robert Jay},
   volume    = {1 Psychoeducational Profile},
-  address   = {Baltimore MD},
+  address   = {Baltimore, MD},
   type      = {Book},
 }
 
-@Article{RN64,
+@Article{senju2009eyecontact,
   title   = {Atypical eye contact in autism: Models, mechanisms and development},
   author  = {Senju, Atsushi and Johnson, Mark H.},
   year    = {2009},
@@ -558,8 +555,8 @@ https://bibsys-almaprimo.hosted.exlibrisgroup.com/openurl/NTNU_UB/NTNU_UB_servic
   url     = {http://www.sciencedirect.com/science/article/pii/S0149763409000827},
 }
 
-@InProceedings{RN35,
-  author    = {Sharmila Subrahmaniam},
+@InProceedings{subrahmaniam2013animation,
+  author    = {Subrahmaniam, Sharmila},
   title     = {CG\&A with Eye Tracking for Cognitive Behavior Analysis and Psychoanalysis},
   booktitle = {2013 Sixth International Conference on Developments in eSystems Engineering},
   year      = {2013},
@@ -569,7 +566,7 @@ https://bibsys-almaprimo.hosted.exlibrisgroup.com/openurl/NTNU_UB/NTNU_UB_servic
   type      = {Conference Proceedings},
 }
 
-@InProceedings{RN42,
+@InProceedings{vargas2016diagnosis,
   author    = {Vargas-Cuentas, N. I. and Hidalgo, D. and Roman-Gonzalez, A. and Power, M. and Gilman, R. H. and Zimic, M.},
   title     = {Diagnosis of autism using an eye tracking system},
   booktitle = {IEEE Global Humanitarian Technology Conference (GHTC)},
@@ -579,7 +576,7 @@ https://bibsys-almaprimo.hosted.exlibrisgroup.com/openurl/NTNU_UB/NTNU_UB_servic
   type      = {Conference Proceedings},
 }
 
-@Article{RN47,
+@Article{zalla2016saccades,
   title   = {Saccadic eye movements in adults with high-functioning autism spectrum disorder},
   author  = {Zalla, Tiziana and Seassau, Magali and Cazalis, Fabienne and Gras, Doriane and Leboyer, Marion},
   year    = {2016},
@@ -588,11 +585,12 @@ https://bibsys-almaprimo.hosted.exlibrisgroup.com/openurl/NTNU_UB/NTNU_UB_servic
   number  = {0},
   pages   = {1-10},
   doi     = {10.1177/1362361316667057},
+  groups  = {NordiCHI 2018},
   type    = {Journal Article},
   url     = {http://journals.sagepub.com/doi/abs/10.1177/1362361316667057},
 }
 
-@Article{RN6,
+@Article{zwaigenbaum2005behaviorchildren,
   title   = {Behavioral manifestations of autism in the first year of life},
   author  = {Zwaigenbaum, Lonnie and Bryson, Susan and Rogers, Tracey and Roberts, Wendy and Brian, Jessica and Szatmari, Peter},
   year    = {2005},
@@ -606,7 +604,7 @@ https://bibsys-almaprimo.hosted.exlibrisgroup.com/openurl/NTNU_UB/NTNU_UB_servic
   url     = {http://www.sciencedirect.com/science/article/pii/S0736574804000553},
 }
 
-@Article{maganto17,
+@Article{maganto2017screening,
   title     = {Measurement Issues: Building a theoretical framework for autism spectrum disorders screening instruments in Europe},
   author    = {Magán‐Maganto, María and Jónsdóttir, Sigrídur Lóa and Sánchez‐García, Ana B. and García‐Primo, Patricia and Hellendoorn, Annika and Charman, Tony and Roeyers, Herbert and Dereu, Mieke and Moilanen, Irma and Muratori, Filippo and Paz, Manuel Posada de la and Rogé, Bernadette and Oosterling, Iris J and Yliherva, Anneli and Canal‐Bedia, Ricardo},
   year      = {2017},
@@ -619,7 +617,7 @@ https://bibsys-almaprimo.hosted.exlibrisgroup.com/openurl/NTNU_UB/NTNU_UB_servic
   url       = {http:https://doi.org/10.1111/camh.12256},
 }
 
-@Article{takarae14,
+@Article{takarae2014motionprocessing,
   title    = {Visual Motion Processing and Visual Sensorimotor Control in Autism},
   author   = {Takarae,Yukari and Luna,Beatriz and Minshew,Nancy J. and Sweeney,John A.},
   year     = {2014},
@@ -637,7 +635,7 @@ https://bibsys-almaprimo.hosted.exlibrisgroup.com/openurl/NTNU_UB/NTNU_UB_servic
   url      = {https://search.proquest.com/docview/1470437088?accountid=12870},
 }
 
-@Article{franklin08,
+@Article{franklin2008colorASD,
   title    = {Color Perception in Children with Autism},
   author   = {Franklin,Anna and Sowden,Paul and Burley,Rachel and Notman,Leslie and Alder,Elizabeth},
   year     = {2008},
@@ -654,7 +652,7 @@ https://bibsys-almaprimo.hosted.exlibrisgroup.com/openurl/NTNU_UB/NTNU_UB_servic
   url      = {https://search.proquest.com/docview/205284345?accountid=12870},
 }
 
-@Inbook{Orlandi2014,
+@Inbook{orlandi2014advancedtools,
   pages     = {256--259},
   title     = {Advanced Tools for Clinical Diagnosis of Autism Spectrum Disorders},
   publisher = {Springer International Publishing},
@@ -666,7 +664,7 @@ https://bibsys-almaprimo.hosted.exlibrisgroup.com/openurl/NTNU_UB/NTNU_UB_servic
   abstract  = {Autism spectrum disorders (ASDs) are characterized by impairments in social and communication development and are not diagnosed before the second or the third year of life. Early identification of children with ASDs is a critical aspect for the management and treatment of this clinical condition. The aim of this study was the development of a tool for the improvement of the early diagnosis. This paper describes the design and development of this system, which overcomes screening performed with qualitative methods, integrating, in one software a basic patient data record, an audio/video data acquisition system, an editor for the creation of customized tests, a reporting system and an environment for test compilation. Finally, the system also provides interfaces allowing the analysis of the audio signals, such as infant crying, and the perceptual analysis of movements.},
   booktitle = {The International Conference on Health Informatics: ICHI 2013, Vilamoura, Portugal on 7-9 November, 2013},
   doi       = {10.1007/978-3-319-03005-0_65},
-  url       = {https://doi.org/10.1007/978-3-319-03005-0_65},
+  url       = {https://doi.org/10.1007/978-3-319-03005-0\_65},
 }
 
 @Article{towie2016screening,
@@ -708,13 +706,14 @@ https://bibsys-almaprimo.hosted.exlibrisgroup.com/openurl/NTNU_UB/NTNU_UB_servic
   abstract  = {The rise of accessible commercial eye-tracking systems has fueled a rapid increase in their use in psychological and psychiatric research. By providing a direct, detailed and objective measure of gaze behavior, eye-tracking has become a valuable tool for examining abnormal perceptual strategies in clinical populations and has been used to identify disorder-specific characteristics(1), promote early identification(2), and inform treatment(3). In particular, investigators of autism spectrum disorders (ASD) have benefited from integrating eye-tracking into their research paradigms(4-7). Eye-tracking has largely been used in these studies to reveal mechanisms underlying impaired task performance(8) and abnormal brain functioning(9), particularly during the processing of social information(1,10-11). While older children and adults with ASD comprise the preponderance of research in this area, eye-tracking may be especially useful for studying young children with the disorder as it offers a non-invasive tool for assessing and quantifying early-emerging developmental abnormalities(2,12-13). Implementing eye-tracking with young children with ASD, however, is associated with a number of unique challenges, including issues with compliant behavior resulting from specific task demands and disorder-related psychosocial considerations. In this protocol, we detail methodological considerations for optimizing research design, data acquisition and psychometric analysis while eye-tracking young children with ASD. The provided recommendations are also designed to be more broadly applicable for eye-tracking children with other developmental disabilities. By offering guidelines for best practices in these areas based upon lessons derived from our own work, we hope to help other investigators make sound research design and analysis choices while avoiding common pitfalls that can compromise data acquisition while eye-tracking young children with ASD or other developmental difficulties.},
   comment   = {3675[PII] 22491039[pmid]},
   database  = {PMC},
+  groups    = {NordiCHI 2018},
   publisher = {MyJove Corporation},
   url       = {http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3460581/},
 }
 
-@Article{SMYRNIS2008341,
+@Article{smyrnis2008guidelines,
   title    = {Metric issues in the study of eye movements in psychiatry},
-  author   = {Nikolaos Smyrnis},
+  author   = {Smyrnis, Nikolaos},
   year     = {2008},
   journal  = {Brain and Cognition},
   volume   = {68},
@@ -724,11 +723,12 @@ https://bibsys-almaprimo.hosted.exlibrisgroup.com/openurl/NTNU_UB/NTNU_UB_servic
   note     = {A Hundred Years of Eye Movement Research in Psychiatry},
   doi      = {https://doi.org/10.1016/j.bandc.2008.08.022},
   abstract = {This review provides a description of the measurement methods, task definitions and measurement parameters in the study of smooth eye pursuit and saccade–antisaccade tasks in psychiatry. The large heterogeneity in task definitions and definitions of parameters and its potential impact on the large variability of the parameter measures is presented. Finally issues relating to data aggregation, practice effects and reliability of these smooth eye pursuit and saccade–antisaccade task performance measures are also discussed. The main conclusion of this review is that oculomotor function testing is still lacking standardization of methods, tasks and parameters affecting its usefulness in certain areas of psychiatric research. A future research program could derive a set of tentative recommendations for test standardization.},
+  groups   = {NordiCHI 2018},
   keywords = {Smooth eye pursuit, Saccade, Antisaccade, Reliability, Consistency, Stability, Standardization},
   url      = {http://www.sciencedirect.com/science/article/pii/S0278262608002674},
 }
 
-@Article{Young2009,
+@Article{young2009gazechildren,
   title     = {Gaze behavior and affect at 6 months: predicting clinical outcomes and language development in typically developing infants and infants at risk for autism},
   author    = {Gregory S. Young and Noah Merin and Sally J. Rogers and Sally Ozonoff},
   year      = {2009},
@@ -741,7 +741,7 @@ https://bibsys-almaprimo.hosted.exlibrisgroup.com/openurl/NTNU_UB/NTNU_UB_servic
   publisher = {Wiley-Blackwell},
 }
 
-@InProceedings{torii2016measurement,
+@InProceedings{torii2016smoothpursuit,
   author    = {I. Torii and K. Ohtani and N. Ishii},
   title     = {Measurement of Ocular Movement Abnormality in Pursuit Eye Movement (PEM) of Autism Spectrum Children with Disability},
   booktitle = {2016 4th Intl Conf on Applied Computing and Information Technology/3rd Intl Conf on Computational Science/Intelligence and Applied Informatics/1st Intl Conf on Big Data, Cloud Computing, Data Science Engineering (ACIT-CSII-BCD)},
@@ -754,7 +754,7 @@ https://bibsys-almaprimo.hosted.exlibrisgroup.com/openurl/NTNU_UB/NTNU_UB_servic
   keywords  = {medical image processing;PEM;ROC curve;autism spectrum children with disability;children diagnosis;cumulative frequency function;curative effect;density function;eyeball movement capture;image processing technique;inspection technique;objectivity index;ocular movement abnormality measurement;pursuit eye movement;receiver operating characteristic curve;Autism;Density functional theory;Image processing;Information science;Motion measurement;Pediatrics;Tools;Autism;Kanner Syndrome;Oculomotor;ROC curve;afterimage},
 }
 
-@Article{doi:10.1093/brain/awh307,
+@Article{takarae2004smoothpursuit,
   title   = {Pursuit eye movement deficits in autism},
   author  = {Takarae, Yukari and Minshew, Nancy J. and Luna, Beatriz and Krisky, Christine M. and Sweeney, John A.},
   year    = {2004},
@@ -764,10 +764,11 @@ https://bibsys-almaprimo.hosted.exlibrisgroup.com/openurl/NTNU_UB/NTNU_UB_servic
   pages   = {2584-2594},
   doi     = {10.1093/brain/awh307},
   eprint  = {/oup/backfile/content_public/journal/brain/127/12/10.1093/brain/awh307/2/awh307.pdf},
+  groups  = {NordiCHI 2018},
   url     = {http://dx.doi.org/10.1093/brain/awh307},
 }
 
-@Inbook{Bocchi2012,
+@Inbook{bocchi2012earlydiagnosis,
   pages     = {187--190},
   title     = {Early Diagnosis of Autism Spectrum Disorders -- Design of the Data Acquisition and Management System},
   publisher = {Springer Berlin Heidelberg},
@@ -778,11 +779,11 @@ https://bibsys-almaprimo.hosted.exlibrisgroup.com/openurl/NTNU_UB/NTNU_UB_servic
   isbn      = {978-3-642-23508-5},
   abstract  = {Autism spectrum disorders are not diagnosed until children reach 3-4 years of age. Early identification of pathological subjects is crucial as early intervention is much more effective. The current project is aimed at the development of a set of methods for improving the chances of early diagnosis. In this paper we focus on the design and development of the shared acquisition architecture. The requirements of a standardized acquisition protocol suggested the development of an integrated acquisition tool using a local storage. Each acquisition tool will allow a secure management of subject data, reducing the risk of mislabeled or lost data by using a guided procedure. A set of synchronization procedures allow a secure data communication with a central database. The requirements related to data management and privacy have been analyzed allowing the definition of the main access roles to the data repository.},
   booktitle = {5th European Conference of the International Federation for Medical and Biological Engineering: 14--18 September 2011, Budapest, Hungary},
-  doi       = {10.1007/978-3-642-23508-5_50},
-  url       = {https://doi.org/10.1007/978-3-642-23508-5_50},
+  doi       = {10.1007/978-3-642-23508-5\_50},
+  url       = {https://doi.org/10.1007/978-3-642-23508-5\_50},
 }
 
-@Article{pensiero2009saccadic,
+@Article{pensiero2009saccades,
   title    = {Saccadic characteristics in autistic children},
   author   = {Pensiero,Stefano, M.D. and Fabbro, Franco,M.D., PhD. and Michieletto,Paola, M.D. and Accardo,Agostino and Brambilla, Paolo,M.D., PhD.},
   year     = {2009},
@@ -799,7 +800,7 @@ https://bibsys-almaprimo.hosted.exlibrisgroup.com/openurl/NTNU_UB/NTNU_UB_servic
   url      = {https://search.proquest.com/docview/233309155?accountid=12870},
 }
 
-@Article{vandergeest2002looking,
+@Article{vandergeest2002humanfigures,
   title    = {Looking at Images with Human Figures: Comparison Between Autistic and Normal Children},
   author   = {van der Geest,J. N. and Kemner,C. and Camfferman,G. and Verbaten,M. N. and van Engeland,H.},
   year     = {2002},
@@ -816,7 +817,7 @@ https://bibsys-almaprimo.hosted.exlibrisgroup.com/openurl/NTNU_UB/NTNU_UB_servic
   url      = {https://search.proquest.com/docview/205300786?accountid=12870},
 }
 
-@Article{doi:10.1080/13803390500376790,
+@Article{anderson2006visualscanning,
   title     = {Visual Scanning and Pupillary Responses in Young Children with Autism Spectrum Disorder},
   author    = {Christa J. Anderson and John Colombo and D. Jill Shaddy},
   year      = {2006},
@@ -828,6 +829,7 @@ https://bibsys-almaprimo.hosted.exlibrisgroup.com/openurl/NTNU_UB/NTNU_UB_servic
   doi       = {10.1080/13803390500376790},
   abstract  = { Using eye-tracking technology we investigated visual scanning and pupillary responses to face and non-face stimuli in nine children (M = 49.6 months) with Autism Spectrum Disorder (ASD) compared to six mental-age and nine chronological-age matched children. The results revealed a significant decrease in visual scanning to landscapes. In addition, the ASD group showed pupillary constriction to children's faces, while control groups showed pupillary dilation. Visual scanning responses to landscapes had a negative correlation with the Behavior subscale of the Autism Diagnostic Observation Schedule-Generic for the ASD group. Potential use of these measures as early indicators of ASD is discussed. },
   eprint    = {http://dx.doi.org/10.1080/13803390500376790},
+  groups    = {NordiCHI 2018},
   publisher = {Routledge},
   url       = { 
         http://dx.doi.org/10.1080/13803390500376790
@@ -835,7 +837,7 @@ https://bibsys-almaprimo.hosted.exlibrisgroup.com/openurl/NTNU_UB/NTNU_UB_servic
 },
 }
 
-@Article{MARTINEAU20111077,
+@Article{martineau2011pupil,
   title    = {Can pupil size and pupil responses during visual scanning contribute to the diagnosis of autism spectrum disorder in children?},
   author   = {Joëlle Martineau and Nadia Hernandez and Lorraine Hiebel and Laetitia Roché and Aude Metzger and Frédérique Bonnet-Brilhault},
   year     = {2011},
@@ -845,11 +847,12 @@ https://bibsys-almaprimo.hosted.exlibrisgroup.com/openurl/NTNU_UB/NTNU_UB_servic
   pages    = {1077 - 1082},
   issn     = {0022-3956},
   doi      = {https://doi.org/10.1016/j.jpsychires.2011.01.008},
+  groups   = {NordiCHI 2018},
   keywords = {Autism, Eye-tracking, Pupil size, Pupil responses, Discriminant analysis},
   url      = {http://www.sciencedirect.com/science/article/pii/S0022395611000094},
 }
 
-@Article{WILKES2015338,
+@Article{wilkes2015oculomotor,
   title    = {Oculomotor performance in children with high-functioning Autism Spectrum Disorders},
   author   = {Bradley J. Wilkes and Tana B. Carson and Kunal P. Patel and Mark H. Lewis and Keith D. White},
   year     = {2015},
@@ -860,11 +863,12 @@ https://bibsys-almaprimo.hosted.exlibrisgroup.com/openurl/NTNU_UB/NTNU_UB_servic
   issn     = {0891-4222},
   doi      = {https://doi.org/10.1016/j.ridd.2014.12.022},
   abstract = {Abstract Sensorimotor issues are of increasing focus in the assessment and treatment of Autism Spectrum Disorders (ASD). The oculomotor system is a sensorimotor network that can provide insights into functional neurobiology and has well-established methodologies for investigation. In this study, we assessed oculomotor performance among children with high functioning ASD and typically developing children, ages 6–12 years. Children with ASD exhibited greater horizontal saccade latency and greater phase lag during vertical smooth pursuit. Saccades and smooth pursuit are mediated by spatially distant brain regions and the long-fiber tracts connecting them, many of which are implicated in ASD. Training paradigms for oculomotor deficits have shown positive outcomes in other clinical populations, and deficits described here may provide useful targets for interventions.},
+  groups   = {NordiCHI 2018},
   keywords = {Autism, ASD, Oculomotor, Saccade, Smooth pursuit},
   url      = {http://www.sciencedirect.com/science/article/pii/S0891422214005277},
 }
 
-@InProceedings{6579948,
+@InProceedings{jansson2013smoothpursuit,
   author    = {D. Jansson and A. Medvedev},
   title     = {Visual stimulus design in parameter estimation of the human smooth pursuit system from eye-tracking data},
   booktitle = {2013 American Control Conference},
@@ -877,7 +881,7 @@ https://bibsys-almaprimo.hosted.exlibrisgroup.com/openurl/NTNU_UB/NTNU_UB_servic
   keywords  = {eye;medical signal processing;neurophysiology;parameter estimation;patient diagnosis;stochastic processes;tracking;visual evoked potentials;SPS;clinical condition diagnosis;dynamical properties;eye-tracking data;frequency excitation;human smooth pursuit system;linear black-box model;linear dynamics;nonlinear Wiener models;parameter clouds;parameter estimation;signal amplitude distribution;visual stimulus design;Data models;Histograms;Mathematical model;Monitoring;Peak to average power ratio;Standards;Visualization},
 }
 
-@Article{Kemner2004,
+@Article{kemner2004smoothpursuit,
   title    = {In search of neurophysiological markers of pervasive developmental disorders: smooth pursuit eye movements?},
   author   = {Kemner, C. and van der Geest, J. N. and Verbaten, M. N. and van Engeland, H.},
   year     = {2004},
@@ -893,7 +897,7 @@ https://bibsys-almaprimo.hosted.exlibrisgroup.com/openurl/NTNU_UB/NTNU_UB_servic
   url      = {https://doi.org/10.1007/s00702-004-0164-5},
 }
 
-@Article{,
+@Article{bourzac2012development,
   title     = {Child development: The first steps},
   author    = {Bourzac, Katherine},
   year      = {2012},
@@ -905,7 +909,7 @@ https://bibsys-almaprimo.hosted.exlibrisgroup.com/openurl/NTNU_UB/NTNU_UB_servic
   url       = {http://dx.doi.org/10.1038/491S7a},
 }
 
-@Article{LARSSON2015145,
+@Article{larsson2015detection,
   title    = {Detection of fixations and smooth pursuit movements in high-speed eye-tracking data},
   author   = {Linnéa Larsson and Marcus Nyström and Richard Andersson and Martin Stridh},
   year     = {2015},
@@ -919,7 +923,7 @@ https://bibsys-almaprimo.hosted.exlibrisgroup.com/openurl/NTNU_UB/NTNU_UB_servic
   url      = {http://www.sciencedirect.com/science/article/pii/S1746809414002031},
 }
 
-@InProceedings{8104253,
+@InProceedings{giordano2017eyetrackersystem,
   author    = {D. Giordano and C. Pino and I. Kavasidis and C. Spampinato and M. D. Pietro and R. Rizzo and A. Scuderi and R. Barone},
   title     = {An Eye Tracker based Computer System to Support Oculomotor and Attention Deficit Investigations},
   booktitle = {2017 IEEE 30th International Symposium on Computer-Based Medical Systems (CBMS)},
@@ -931,7 +935,7 @@ https://bibsys-almaprimo.hosted.exlibrisgroup.com/openurl/NTNU_UB/NTNU_UB_servic
   keywords  = {data analysis;diseases;eye;gaze tracking;medical computing;medical disorders;neurophysiology;paediatrics;psychology;attention deficit investigations;diagnostic purposes;eye movements;eye tracker based computer system;eye tracking technologies;eye-gaze data;glycogen storage disease;idiopathic congenital nystagmus;neurodevelopmental diseases;neuropsychiatrists;non-invasive procedure;oculomotor deficit investigations;ophthalmologists;rehabilitation purposes;Data visualization;Diseases;Gaze tracking;Software tools;Tools;Tracking},
 }
 
-@Article{VONHOFSTEN2009556,
+@Article{vonhofsten2009lookingevents,
   title    = {How children with autism look at events},
   author   = {Claes von Hofsten and Helena Uhlig and Malin Adell and Olga Kochukhova},
   year     = {2009},
@@ -946,4 +950,92 @@ https://bibsys-almaprimo.hosted.exlibrisgroup.com/openurl/NTNU_UB/NTNU_UB_servic
   url      = {http://www.sciencedirect.com/science/article/pii/S1750946708001542},
 }
 
+@Article{vonhofsten1997smoothpursuit,
+  title    = {Development of smooth pursuit tracking in young infants},
+  author   = {Claes von Hofsten and Kerstin Rosander},
+  year     = {1997},
+  journal  = {Vision Research},
+  volume   = {37},
+  number   = {13},
+  pages    = {1799 - 1810},
+  issn     = {0042-6989},
+  doi      = {https://doi.org/10.1016/S0042-6989(96)00332-X},
+  abstract = {Eye and head movements were measured in a group of infants at 2, 3, and 5 months of age as they were attentively tracking an object moving at 0.2 or 0.4 Hz in sinus or triangular mode. Smooth pursuit gain increased with age, especially until 3 months. At 2–3 months, the lag of the smooth pursuit was small for the sinusoidal motion but large for the triangular one. At 5 months, smooth pursuit was leading the sinusoidal motion and the lag for the triangular one was small. Head tracking increased substantially with age and its lag was always large.},
+  groups   = {NordiCHI 2018},
+  keywords = {Eye movements, Infants, Smooth pursuit, Saccades, Head movements},
+  url      = {http://www.sciencedirect.com/science/article/pii/S004269899600332X},
+}
+
+@Book{leigh2015neurology,
+  title     = {The Neurology of Eye Movements},
+  publisher = {Oxford University Press},
+  year      = {2015},
+  author    = {Leigh, R.J. and Zee, D.S.},
+  series    = {Contemporary neurology series},
+  address   = {New York, NY},
+  isbn      = {9780199969289},
+  lccn      = {2014038030},
+  url       = {https://books.google.no/books?id=v2s0BwAAQBAJ},
+}
+
+@Book{adler2011physiology,
+  title     = {Adler's Physiology of the Eye},
+  publisher = {Saunders/Elsevier},
+  year      = {2011},
+  author    = {Adler, Francis Heed},
+  editor    = {Levin, Leonard A. and Nilsson, Siv F.E. and Ver Hoeve, James and Wu, Samuel M. and Kaufman, Paul L. and Alm, Albert},
+  series    = {Adler's Physiology of the Eye},
+  address   = {Edinburgh},
+  edition   = {11th},
+  isbn      = {9780323057141},
+  lccn      = {2011290765},
+  url       = {https://books.google.no/books?id=1oIlvnXnJvEC},
+}
+
+@Misc{rek2017templates,
+  author       = {{Regional Committees For Medical and Health Research Ethics}},
+  title        = {Templates for Participation Information and Consent},
+  howpublished = {Online},
+  month        = dec,
+  year         = {2017},
+  timestamp    = {2017-11-28},
+  type         = {Web Page},
+  url          = {https://helseforskning.etikkom.no/frister/malforinformasjonsskriv?p_dim=34672&_ikbLanguageCode=us},
+}
+
+@Inbook{shultz2015earlydepartures,
+  pages     = {157--177},
+  title     = {Early Departures from Normative Processes of Social Engagement in Infants with Autism Spectrum Disorder},
+  publisher = {Springer International Publishing},
+  year      = {2015},
+  author    = {Shultz, Sarah and Jones, Warren and Klin, Ami},
+  editor    = {Puce, Aina and Bertenthal, Bennett I.},
+  address   = {Cham},
+  isbn      = {978-3-319-21368-2},
+  abstract  = {From the first moments of life, typically developing infants perceive social stimuli as relatively more salient than other competing stimuli. Through ongoing cycles of seeking and acting upon such stimuli, infants transform their understanding of the social world, leading to increasingly refined social abilities and specialized brain circuitry for social processing. By contrast, diminished interest in a wide variety of adaptive social stimuli is a pervasive, early emerging, and enduring feature of autism spectrum disorder (ASD). Reduced attention to such stimuli exerts a compounding influence on development as a child with ASD fails to accrue an increasingly longer list of social experiences that would otherwise play a foundational role in social development and functional brain specialization. In this chapter, we review the canalizing role of preferential attention to social stimuli on behavior and brain development in typical infancy. We also review what is known about the early development of infants who are later diagnosed with ASD, with a focus on early departures from normative developmental trajectories of social visual engagement. We focus primarily on visual attention to the eyes of others as a paradigmatic example of an early emerging foundational social ability, that, when disrupted, is both a marker of emerging social disability and a compounding influence on subsequent development. Finally, we examine the accumulative consequences of departures from normative developmental trajectories of social visual engagement, as children with ASD develop increasingly greater specialization in things other than the social world.},
+  booktitle = {The Many Faces of Social Attention: Behavioral and Neural Measures},
+  doi       = {10.1007/978-3-319-21368-2\_6},
+  url       = {https://doi.org/10.1007/978-3-319-21368-2\_6},
+}
+
+@Inbook{bush2015socialattention,
+  pages     = {179--220},
+  title     = {Aberrant Social Attention and Its Underlying Neural Correlates in Adults with Autism Spectrum Disorder},
+  publisher = {Springer International Publishing},
+  year      = {2015},
+  author    = {Bush, Jennifer C. and Kennedy, Daniel P.},
+  editor    = {Puce, Aina and Bertenthal, Bennett I.},
+  address   = {Cham},
+  isbn      = {978-3-319-21368-2},
+  abstract  = {Preferential attention to social features in the environment emerge early in development. These early preferences are thought to set the stage for the development of complex social skills critical for one's social competence throughout their lifetime. One group of individuals that exhibit striking abnormalities in social attention is that with autism spectrum disorder (ASD). Their abnormalities emerge within the first year of life and persist over the life span. Complementary to the work described in Chap. 7 (Shultz, Jones {\&} Klin, this volume), which explores the early development of social attentional abnormalities in ASD, here we examine how differences in social attention are manifested in older adolescents and adults with ASD. We first review the behavioral literature detailing these differences in social attention, discuss the potential downstream consequences of social attentional disruptions, and examine the neural correlates of atypical social attention. We conclude by discussing possible future directions and outstanding questions in this field.},
+  booktitle = {The Many Faces of Social Attention: Behavioral and Neural Measures},
+  doi       = {10.1007/978-3-319-21368-2\_7},
+  url       = {https://doi.org/10.1007/978-3-319-21368-2\_7},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}
+
+@Comment{jabref-meta: grouping:
+0 AllEntriesGroup:;
+1 StaticGroup:NordiCHI 2018\;0\;1\;0x008000ff\;\;References for the NordiCHI work-in-progress conference paper\;;
+}
