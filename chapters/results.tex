@@ -1,7 +1,7 @@
 \chapter{Results of the eye tracking experiments}
 \label{chap:results}
 
-Here it follows the discussion about the data collected on the participants’ eye movement during the experiments. As explained previously in \todo{Section XX: Data analysis}, at the current state of this research is not possible to provide quantitative computations on the eye tracking data. Moreover, the eye tracker experiment software does not provide calculation modules for smooth pursuit eye movements. Complex algorithms need to be applied on the raw data in the future. For these reasons, the analysis is mainly based on the visual inspection of the graphs outputted by the eye tracker software. Therefore, the following analysis is qualitative, subjective and based on the researcher’s interpretation of the framework and of the measurements. Along with the eye tracker recordings, qualitative data were collected for each participant, in the form of written notes, about how they behaved in relation to the whole procedure.
+Here it follows the discussion about the data collected on the participants’ eye movement during the experiments. As explained previously in Section~\ref{sec:fwkdataanalysis}, at the current state of this research is not possible to provide quantitative computations on the eye tracking data. Moreover, the eye tracker experiment software does not provide calculation modules for smooth pursuit eye movements. Complex algorithms need to be applied on the raw data in the future. For these reasons, the analysis is mainly based on the visual inspection of the graphs outputted by the eye tracker software. Therefore, the following analysis is qualitative, subjective and based on the researcher’s interpretation of the framework and of the measurements. Along with the eye tracker recordings, qualitative data were collected for each participant, in the form of written notes, about how they behaved in relation to the whole procedure.
 
 The graphs shown in the following sections show a series of eye parameters, which are enlisted in the legend on the right side of the charts. In particular, the eye position is not shown by the composite cartesian coordinates (x,y), but the two coordinates are plotted separately. Therefore it is not possible to overlap the graphs with the visual stimuli. There are different units of measure on the chart’s axes for the eye positions (pixels), the pupil diameter (mm) and the eye velocity (deg/s). For each participant, a tracking ratio is provided, which reports the percentage of correctly recorded data over the trial total amount.
 
@@ -11,7 +11,7 @@ The eye tracker software also tags the eye movements depending on their features
 \label{sec:respilot}
 
 Before conducting the experiment, the author conducted a pilot test in order to collect reference data. The data and the eye movement patterns shown in the following charts are the one which are expected to be elicited by the visual stimuli developed for the framework.
-The author knows all the stimuli in detail, he does not have any clinical diagnosis, and his eyesight is corrected to normal by glasses. Therefore it can be assumed that his performance on tracking the targets is theoretically one of the best achievable. The tracking ratio for the pilot test is \(\geq\) 95.8\% (Tab.~\ref{tab:pilotsummary}).
+The author knows all the stimuli in detail, he does not have any clinical diagnosis, and his eyesight is corrected to normal by glasses. Therefore it can be assumed that his performance on tracking the targets is theoretically one of the best achievable. The tracking ratio for the pilot test is \(\geq\) 95.8\% \begin{comment} (Tab.~\ref{tab:pilotsummary}).
 
 \begin{table}[h]
   \centering
@@ -25,23 +25,23 @@ The author knows all the stimuli in detail, he does not have any clinical diagno
   \caption{Summary of pilot test trials}
   \label{tab:pilotsummary}
 \end{table}
-
+\end{comment}
 
 \subsection{PT\_T1 : Sinusoidal motion visual stimuli}
 \label{sec:PT_T1}
 
-\begin{figure}[h]
+\begin{figure}[t]
   \centering
-  \includegraphics[width=.5\textwidth]{figures/placeholderImg.jpg}
+  \includegraphics[width=.8\textwidth]{figures/graphs/PT_T1(sinusoid)_XY.png}
   \caption[PT\_T1 Eye positioning]{PT\_T1 Eye positioning}
   \label{fig:PT_T1_pos}
 \end{figure}
 
 The sinusoidal tracking pattern (Fig.~\ref{fig:PT_T1_pos}) is evident from the plots of the y coordinate, while from the x coordinate plots it can be inferred that in the first half of the experiment the target moved from left to right (increase of x value) and then it travelled backwards (decrease of x value) following the same pattern (no disruption of the sinusoidal y pattern). The eye movements in the first 1000 ms are due to the focus-to-target routine in the stimuli. From the graph it can be seen that during two changes of directions (17.5 and 20 s) large saccades were performed, probably in the attempt to predict larger movements of the target. The left eye tracks smoothly the target sinusoidal movement with more precision, while the right eye is less precise. This is probably due to the dominance of the left eye over the right one in the subject.
 
-\begin{figure}[h]
+\begin{figure}[t]
   \centering
-  \includegraphics[width=.5\textwidth]{figures/placeholderImg.jpg}
+  \includegraphics[width=.8\textwidth]{figures/graphs/PT_T1(sinusoid)_VP.png}
   \caption[PT\_T1 pupil velocity]{PT\_T1 Pupil diameter and eye velocity}
   \label{fig:PT_T1_vel}
 \end{figure}
@@ -55,7 +55,7 @@ Fig.~\ref{fig:PT_T1_vel} shows that a number of small saccades (the spikes in th
 
 \begin{figure}[h]
   \centering
-  \includegraphics[width=.5\textwidth]{figures/placeholderImg.jpg}
+  \includegraphics[width=.8\textwidth]{figures/graphs/PT_T2(triangular)_XY.png}
   \caption[PT\_T2 Eye positioning]{PT\_T2 Eye positioning}
   \label{fig:PT_T2_pos}
 \end{figure}
@@ -64,7 +64,7 @@ The considerations made for the sinusoidal motion chart (Fig.~\ref{fig:PT_T2_pos
 
 \begin{figure}[h]
   \centering
-  \includegraphics[width=.5\textwidth]{figures/placeholderImg.jpg}
+  \includegraphics[width=.8\textwidth]{figures/graphs/PT_T2(triangular)_VP.png}
   \caption[PT\_T2 Eye pupil velocity]{PT\_T2 Pupil diameter and eye velocity}
   \label{fig:PT_T2_vel}
 \end{figure}
@@ -78,7 +78,7 @@ In Fig.~\ref{fig:PT_T2_vel}, it is possible to see that the during the smooth tr
 
 \begin{figure}[h]
   \centering
-  \includegraphics[width=.5\textwidth]{figures/placeholderImg.jpg}
+  \includegraphics[width=.8\textwidth]{figures/graphs/PT_T3(stepRamp)_XY.png}
   \caption[PT\_T3 Eye positioning]{PT\_T3 Eye positioning}
   \label{fig:PT_T3_pos}
 \end{figure}
@@ -91,7 +91,7 @@ It is important to remind that even during fixations, a number of small eye move
 
 \begin{figure}[h]
   \centering
-  \includegraphics[width=.5\textwidth]{figures/placeholderImg.jpg}
+  \includegraphics[width=.8\textwidth]{figures/graphs/PT_T3(stepRamp)_VP.png}
   \caption[PT\_T3 pupil velocity]{PT\_T3 Pupil diameter and eye velocity}
   \label{fig:PT_T3_vel}
 \end{figure}
@@ -104,7 +104,7 @@ In Fig.~\ref{fig:PT_T3_vel} it is possible to see the quick burst of more or les
 
 \begin{figure}[h]
   \centering
-  \includegraphics[width=.5\textwidth]{figures/placeholderImg.jpg}
+  \includegraphics[width=.8\textwidth]{figures/graphs/PT_T4(saccades)_XY.png}
   \caption[PT\_T4 Eye positioning]{PT\_T4 Eye positioning}
   \label{fig:PT_T4_pos}
 \end{figure}
@@ -113,7 +113,7 @@ Fig.~\ref{fig:PT_T4_pos} shows how both the x and y coordinates of the eye chang
 
 \begin{figure}[h]
   \centering
-  \includegraphics[width=.5\textwidth]{figures/placeholderImg.jpg}
+  \includegraphics[width=.8\textwidth]{figures/graphs/PT_T4(saccades)_VP.png}
   \caption[PT\_T4 pupil velocity]{PT\_T4 Pupil diameter and eye velocity}
   \label{fig:PT_T4_vel}
 \end{figure}
@@ -152,7 +152,7 @@ Tab.~\ref{tab:expgroupresultssummary} shows an overview of the results from the 
 
 \begin{figure}[h]
   \centering
-  \includegraphics[width=.5\textwidth]{figures/placeholderImg.jpg}
+  \includegraphics[width=.8\textwidth]{figures/graphs/P1_T1(sinusoid)_XY.png}
   \caption[P1\_T1 Eye positioning]{P1\_T1 Eye positioning}
   \label{fig:P1_T1_pos}
 \end{figure}
@@ -162,7 +162,7 @@ The graph also shows the intrusion of more or less large saccades especially imm
 
 \begin{figure}[h]
   \centering
-  \includegraphics[width=.5\textwidth]{figures/placeholderImg.jpg}
+  \includegraphics[width=.8\textwidth]{figures/graphs/P1_T1(sinusoid)_VP.png}
   \caption[P1\_T1 pupil velocity]{P1\_T1 Pupil diameter and eye velocity}
   \label{fig:P1_T1_vel}
 \end{figure}
@@ -175,16 +175,16 @@ Fig.~\ref{fig:P1_T1_vel} shows that during the smooth pursuit tracking in the fi
 
 \begin{figure}[h]
   \centering
-  \includegraphics[width=.5\textwidth]{figures/placeholderImg.jpg}
+  \includegraphics[width=.8\textwidth]{figures/graphs/P2_T1(sinusoid)_XY.png}
   \caption[P2\_T1 Eye positioning]{P2\_T1 Eye positioning}
   \label{fig:P2_T1_pos}
 \end{figure}
 
-Fig.~\ref{fig:P1_T1_pos} shows that P2 tracked the sinusoidal moving target smoothly with noticeable accuracy throughout all the stimuli presentation. The eye tracker lost data on one full repetition and a half one, probably because the child moved a bit far away from the eye tracker or something caught her attention elsewhere. However, she returned to track the target again accurately. Two saccades, a small one and a large one, are visible before the target turning points, when the target starts decelerating noticeably.
+Fig.~\ref{fig:P2_T1_pos} shows that P2 tracked the sinusoidal moving target smoothly with noticeable accuracy throughout all the stimuli presentation. The eye tracker lost data on one full repetition and a half one, probably because the child moved a bit far away from the eye tracker or something caught her attention elsewhere. However, she returned to track the target again accurately. Two saccades, a small one and a large one, are visible before the target turning points, when the target starts decelerating noticeably.
 
 \begin{figure}[h]
   \centering
-  \includegraphics[width=.5\textwidth]{figures/placeholderImg.jpg}
+  \includegraphics[width=.8\textwidth]{figures/graphs/P2_T1(sinusoid)_VP.png}
   \caption[P2\_T1 pupil velocity]{P2\_T1 Pupil diameter and eye velocity}
   \label{fig:P2_T1_vel}
 \end{figure}
@@ -198,7 +198,7 @@ Fig.~\ref{fig:P2_T1_vel} show how during smooth tracking the velocity profile of
 
 \begin{figure}[h]
   \centering
-  \includegraphics[width=.5\textwidth]{figures/placeholderImg.jpg}
+  \includegraphics[width=.8\textwidth]{figures/graphs/P3_T1(sinusoid)_XY.png}
   \caption[P3\_T1 Eye positioning]{P3\_T1 Eye positioning}
   \label{fig:P3_T1_pos}
 \end{figure}
@@ -207,7 +207,7 @@ As Fig.~\ref{fig:P3_T1_pos} shows, the quantity of collected data from P3 in the
 
 \begin{figure}[h]
   \centering
-  \includegraphics[width=.5\textwidth]{figures/placeholderImg.jpg}
+  \includegraphics[width=.8\textwidth]{figures/graphs/P3_T1(sinusoid)_VP.png}
   \caption[P3\_T1 pupil velocity]{P3\_T1 Pupil diameter and eye velocity}
   \label{fig:P3_T1_vel}
 \end{figure}
@@ -224,7 +224,7 @@ In the only two clear record sets available (Fig.~\ref{fig:P3_T1_vel}), it is po
 
 \begin{figure}[h]
   \centering
-  \includegraphics[width=.5\textwidth]{figures/placeholderImg.jpg}
+  \includegraphics[width=.8\textwidth]{figures/graphs/P1_T2(triangular)_XY.png}
   \caption[P1\_T2 Eye positioning]{P1\_T2 Eye positioning}
   \label{fig:P1_T2_pos}
 \end{figure}
@@ -233,7 +233,7 @@ In Fig.~\ref{fig:P1_T2_pos} it is possible to spot the triangular motion pattern
 
 \begin{figure}[h]
   \centering
-  \includegraphics[width=.5\textwidth]{figures/placeholderImg.jpg}
+  \includegraphics[width=.8\textwidth]{figures/graphs/P1_T2(triangular)_VP.png}
   \caption[P1\_T2 pupil velocity]{P1\_T2 Pupil diameter and eye velocity}
   \label{fig:P1_T2_vel}
 \end{figure}
@@ -246,7 +246,7 @@ Fig.~\ref{fig:P1_T2_vel} shows the presence of small saccades intruding the smoo
 
 \begin{figure}[h]
   \centering
-  \includegraphics[width=.5\textwidth]{figures/placeholderImg.jpg}
+  \includegraphics[width=.8\textwidth]{figures/graphs/P2_T2(triangular)_XY.png}
   \caption[P1\_T2 Eye positioning]{P2\_T2 Eye positioning}
   \label{fig:P2_T2_pos}
 \end{figure}
@@ -255,7 +255,7 @@ The graph for the triangular pursuit of P2 (Fig.~\ref{fig:P2_T2_pos})  is partic
 
 \begin{figure}[h]
   \centering
-  \includegraphics[width=.5\textwidth]{figures/placeholderImg.jpg}
+  \includegraphics[width=.8\textwidth]{figures/graphs/P2_T2(triangular)_VP.png}
   \caption[P2\_T2 pupil velocity]{P2\_T2 Pupil diameter and eye velocity}
   \label{fig:P2_T2_vel}
 \end{figure}
@@ -270,7 +270,7 @@ Fig.~\ref{fig:P2_T2_vel} shows how only the first repetition of the stimuli show
 
 \begin{figure}[h]
   \centering
-  \includegraphics[width=.5\textwidth]{figures/placeholderImg.jpg}
+  \includegraphics[width=.8\textwidth]{figures/graphs/P3_T2(triangular)_XY.png}
   \caption[P3\_T2 Eye positioning]{P3\_T2 Eye positioning}
   \label{fig:P3_T2_pos}
 \end{figure}
@@ -279,7 +279,7 @@ The tracking record of P3 (Fig.~\ref{fig:P3_T2_pos}) is pretty accurate, she fol
 
 \begin{figure}[h]
   \centering
-  \includegraphics[width=.5\textwidth]{figures/placeholderImg.jpg}
+  \includegraphics[width=.8\textwidth]{figures/graphs/P3_T2(triangular)_VP.png}
   \caption[P3\_T2 pupil velocity]{P3\_T2 Pupil diameter and eye velocity}
   \label{fig:P3_T2_vel}
 \end{figure}
@@ -288,14 +288,14 @@ Fig.~\ref{fig:P3_T2_vel} shows how in the first repetition of the stimuli few sa
 
 
 \subsection{P\{1,2,3\}\_T3 : Step-Ramp pursuit visual stimuli}
-\label{sec:P123_T2}
+\label{sec:P123_T3}
 
 \subsubsection{P1\_T3}
 \label{sec:P1_T3}
 
 \begin{figure}[h]
   \centering
-  \includegraphics[width=.5\textwidth]{figures/placeholderImg.jpg}
+  \includegraphics[width=.8\textwidth]{figures/graphs/P1_T3(stepRamp)_XY.png}
   \caption[P1\_T3 Eye positioning]{P1\_T3 Eye positioning}
   \label{fig:P1_T3_pos}
 \end{figure}
@@ -304,7 +304,7 @@ Fig.~\ref{fig:P1_T3_pos} shows pretty clearly that the stimuli elicited the expe
 
 \begin{figure}[h]
   \centering
-  \includegraphics[width=.5\textwidth]{figures/placeholderImg.jpg}
+  \includegraphics[width=.8\textwidth]{figures/graphs/P1_T3(stepRamp)_VP.png}
   \caption[P1\_T3 pupil velocity]{P1\_T3 Pupil diameter and eye velocity}
   \label{fig:P1_T3_vel}
 \end{figure}
@@ -320,14 +320,14 @@ The eye tracking data of P2 during the step-ramp visual stimuli are insufficient
 
 \begin{figure}[h]
   \centering
-  \includegraphics[width=.5\textwidth]{figures/placeholderImg.jpg}
+  \includegraphics[width=.8\textwidth]{figures/graphs/P2_T3(stepRamp)_XY.png}
   \caption[P2\_T3 Eye positioning]{P2\_T3 Eye positioning}
   \label{fig:P2_T3_pos}
 \end{figure}
 
 \begin{figure}[h]
   \centering
-  \includegraphics[width=.5\textwidth]{figures/placeholderImg.jpg}
+  \includegraphics[width=.8\textwidth]{figures/graphs/P2_T3(stepRamp)_VP.png}
   \caption[P2\_T3 pupil velocity]{P2\_T3 Pupil diameter and eye velocity}
   \label{fig:P2_T3_vel}
 \end{figure}
@@ -340,7 +340,7 @@ The record for the step-ramp stimuli of P3 stops after the second repetition. Af
 
 \begin{figure}[h]
   \centering
-  \includegraphics[width=.5\textwidth]{figures/placeholderImg.jpg}
+  \includegraphics[width=.8\textwidth]{figures/graphs/P3_T3(stepRamp)_XY.png}
   \caption[P3\_T3 Eye positioning]{P3\_T3 Eye positioning}
   \label{fig:P3_T3_pos}
 \end{figure}
@@ -349,7 +349,7 @@ The two repetitions performed by P3 (Fig.~\ref{fig:P3_T3_pos})  show a gaze patt
 
 \begin{figure}[h]
   \centering
-  \includegraphics[width=.5\textwidth]{figures/placeholderImg.jpg}
+  \includegraphics[width=.8\textwidth]{figures/graphs/P3_T3(stepRamp)_VP.png}
   \caption[P3\_T3 pupil velocity]{P3\_T3 Pupil diameter and eye velocity}
   \label{fig:P3_T3_vel}
 \end{figure}
@@ -361,11 +361,11 @@ Fig.~\ref{fig:P3_T3_vel} reveals how the velocity profile of the smooth pursuit 
 
 
 \subsubsection{P1\_T4}
-\label{sec:P1_T1}
+\label{sec:P1_T4}
 
 \begin{figure}[h]
   \centering
-  \includegraphics[width=.5\textwidth]{figures/placeholderImg.jpg}
+  \includegraphics[width=.8\textwidth]{figures/graphs/P1_T4(saccades)_XY.png}
   \caption[P1\_T4 Eye positioning]{P1\_T4 Eye positioning}
   \label{fig:P1_T4_pos}
 \end{figure}
@@ -375,7 +375,7 @@ The trial should have lasted for 43.7 s, but it has been stopped at 34.61 s sinc
 
 \begin{figure}[h]
   \centering
-  \includegraphics[width=.5\textwidth]{figures/placeholderImg.jpg}
+  \includegraphics[width=.8\textwidth]{figures/graphs/P1_T4(saccades)_VP.png}
   \caption[P1\_T4 pupil velocity]{P1\_T4 Pupil diameter and eye velocity}
   \label{fig:P1_T4_vel}
 \end{figure}

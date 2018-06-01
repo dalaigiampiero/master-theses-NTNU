@@ -29,6 +29,7 @@
 
 \usepackage{enumitem} % package for managing the style of the list counters
 \usepackage{import} % package for importing sections from files
+\usepackage{pdfpages}  % package for including PDFs in the document
 
 \definecolor{darkgreen}{rgb}{0,0.5,0}
 \definecolor{darkred}{rgb}{0.5,0.0,0}
@@ -102,13 +103,22 @@
 \ifthenelse{\boolean{HarvardCitations}}{%
 	\bibliographystyle{agsm} % used for Harvard style references. Names - Humanities & Interaction Design
 }{%
-	\bibliographystyle{ntnuthesis/ntnuthesis} %used for Vancover style references. Numbers - Computer Science & Physics
+	\bibliographystyle{ntnuthesis/ntnuthesis} % used for Vancover style references. Numbers - Computer Science & Physics
 }
 
 \bibliography{master_thesis_bibliography}
 
 \appendix
-%\include{chapters/rawdata}
-%\include{chapters/timetable}
+
+
+\include{appendices/consentformNO}
+\includepdf[scale=1,pages={-}]{appendices/InformedConsentFormNorsk.pdf}
+\include{appendices/consentformEN}
+\includepdf[scale=1,pages={-}]{appendices/InformedConsentFormEnglish.pdf}
+\include{appendices/researchprotocol}
+\includepdf[scale=1,pages={-}]{appendices/researchProtocol.pdf}
+\include{appendices/stimulidescription}
+\includepdf[scale=1,pages={-}]{appendices/stimuliDescriptions.pdf}
+\include{appendices/processing}
 
 \end{document}
