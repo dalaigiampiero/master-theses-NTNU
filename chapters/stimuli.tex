@@ -1,44 +1,42 @@
 \section{Stimuli materials}
 \label{sec:expstimulimaterials}
 
-The stimuli materials for the experiment were all generated programmatically by using the Processing 3 software (https://processing.org), which is based on the Java programming language. The executive files for the generation of the visual stimuli are parametric, meaning that the researchers can input some variables and the software generates a new version of the visual stimuli automatically. For example, all the conversions between pixel and degrees of visual angle measurements units, the drawing of sinusoidal and triangular waves starting from trigonometric parameters, the rendering of the target movement, are automated. This features makes them useful not only for the specific case of the current research on early ASD, but also for other research in need for similar paradigms and visual stimuli. The current version of the codes for the stimuli is available in \todo{Appendix XX}.
+The stimuli materials for the experiment were all generated programmatically by using the Processing 3 software (\url{https://processing.org}), which is based on the Java programming language. The executive files for the generation of the visual stimuli are parametric, meaning that the researchers can input some variables and the software generates a new version of the visual stimuli automatically. For example, all the conversions between pixel and degrees of visual angle measurements units, the drawing of sinusoidal and triangular waves starting from trigonometric parameters, the rendering of the target movement, are automated. This features makes them useful not only for the specific case of the current research on early ASD, but also for other research in need for similar paradigms and visual stimuli.
 
 The eye parameters and the appropriate methods for eliciting them enlisted in the framework (Chapter~\ref{chap:framework}) lead to the development of four kinds of stimuli, which were put together in a single experimental procedure in the SMI Experiment Suite®. In between the presentation of the visual stimuli, a series of interstimulus materials was shown. A summary of the sequence of the visual stimuli and interstimulus materials is shown in Tab.~\ref{tab:stimulisummary}.
 
 \begin{table}[h]
-  \centering
-  \begin{tabular}{c|c}
-    Age  & IQ  \\ 
-    \hline
-    10   & 100 \\
-    20   & 100 \\
-    30   & 150
-  \end{tabular}
-  \caption{List of stimuli and interstimulus materials.}
-  \label{tab:stimulisummary}
+   \centering
+   \begin{tabular}{@{}c@{\hspace{.5cm}}c@{}}
+       \includegraphics[page=1,width=.8\textwidth]{figures/tables/table_4.pdf}
+   \end{tabular}
+ \caption{List of stimuli and interstimulus materials.}
+ \label{tab:stimulisummary}
 \end{table}
+
+
 
 \subsection{Stimuli}
 \label{sec:expstimuli}
 
-All the stimuli require to input the display monitor sizes and resolution, in order to convert any measurement in pixel units to degrees of visual angle. The degrees of visual angle can be seen as a device-independent measurement unit, therefore it allows to make more precise calculations and to compare the results with literature independently from the type of media on which the stimuli are streamed on. The conversion functions are based on trigonometric calculations made publicly available by Michael Tesar and encoded to suit the Processing 3 syntax. For the experiments, the assumed distance of the participant’s eyes from the screen was set to 50 cm.
+All the stimuli require to input the display monitor sizes and resolution, in order to convert any measurement in pixel units to degrees of visual angle. The degrees of visual angle can be seen as a device-independent measurement unit, therefore it allows to make more precise calculations and to compare the results with literature independently from the type of media on which the stimuli are streamed on. The conversion functions are based on trigonometric calculations made publicly available by Michael Tesar\footnote{The original codes are available at \url{https://github.com/neuropacabra/VisualAngleCalculator}.} and encoded to suit the Processing 3 syntax. For the experiments, the assumed distance of the participant’s eyes from the screen was set to 50 cm.
 
 Given the small size of the display monitor available for doing the experiments, the parameters for the stimuli could not always replicate the stimuli described in literature, which often used supports and media with wider surfaces. Therefore, the stimuli are adapted for being presented on a 15.6” display monitor. Moreover, the parameters for each stimuli (especially the ones related with velocities, repetitions and durations) were manipulated in order to obtain trials short enough to keep the children’s interest throughout the stimuli presentation.
 
 The framerate for the stimuli is set to 60 fps in order to ensure a smooth presentation of the moving target and consequent eye movement artifacts due to a low rendering performance of the stimuli videos. This framerate matched also with the refresh rate of the display monitor used for the experiments.
 
-The target pictures (Fig.~\ref{fig:stimulitargets}) were drawn by the author starting from a black and white version of the ladybug target by Karen Tyler. The aspect of the targets (bee, butterfly and snail) was kept consistent, changing their colors in order to make them stand out on the medium-gray background (128 on 256 levels), in the attempt to attract as much attention as possible. The target pictures are the only colored element in the stimuli.
+The target pictures (Fig.~\ref{fig:stimulitargets}) were drawn by the author starting from a black and white version of the ladybug target by Karen Tyler\footnote{The icon is available at \url{https://thenounproject.com/01karent/uploads/?i=469184}.The author made the icon available under creative commons attribuition (CC-BY) license.}. The aspect of the targets (bee, butterfly and snail) was kept consistent, changing their colors in order to make them stand out on the medium-gray background (128 on 256 levels), in the attempt to attract as much attention as possible. The target pictures are the only colored element in the stimuli.
 
 \begin{figure}[h]
   \centering
-  \includegraphics[width=.5\textwidth]{figures/placeholderImg.jpg}
+  \includegraphics[width=.9\textwidth]{figures/targets-08.jpg}
   \caption[Target pictures for the stimuli]{Target pictures for the stimuli}
   \label{fig:stimulitargets}
 \end{figure}
 
 The 5-point calibration routines (c1, c2, c3, c4) used the custom targets, depending on which stimuli they were preceding. The calibration required a precision of \textless 0.5 deg drift to be considered valid. The calibration procedures were semi-automated, for which the researcher needed to input a command in order to start and then the software expected the participant’s fixations on the target to proceed further. The targets were always 49x49 px, covering 1 degree of visual angle for the display monitor in use. This dimension allows the viewers to foveate the whole target \citep[p. 2]{leigh2015neurology}, preventing them to scan inside the target to foveate for further internal details, adding potential intrusive eye movements to the recordings.
 The Processing 3 scripts allow to export a picture for each frame in the visual stimuli, and then it can import all the pictures in sequence for creating a movie file. The movie file are then chained together in the eye tracker experiment software.
-Each stimulus material has its own set of parameters and algorithms to be generated. Each Processing 3 script generates a report with the parameters for the drawing of the stimuli, in order to allow the researchers to annotate the parameters and confront them within experiments or with literature. The detailed list of the stimuli for each participant is shown in \todo{Appendix XX: Detailed description of the visual stimuli for each participant}. Here it follows a summary of the algorithms which generate the stimuli.
+Each stimulus material has its own set of parameters and algorithms to be generated. Each Processing 3 script generates a report with the parameters for the drawing of the stimuli, in order to allow the researchers to annotate the parameters and confront them within experiments or with literature. The detailed list of the stimuli for each participant is shown in Appendix~\ref{app:stimulidescription}. Here it follows a summary of the algorithms which generate the stimuli.
 
 
 
@@ -72,15 +70,15 @@ The two stimuli are essentially the same (Fig.~\ref{fig:sinescreens}, Fig.~\ref{
 
 \begin{figure}[h]
   \centering
-  \includegraphics[width=.5\textwidth]{figures/placeholderImg.jpg}
-  \caption[sinusoidal stimuli screenshots]{Screenshots of the sinusoidal motion stimuli (s1)}
+  \includegraphics[width=.9\textwidth]{figures/stimulitarget-09.jpg}
+  \caption[Sinusoidal stimuli screenshots]{Scheme of the sinusoidal motion stimuli (s1)}
   \label{fig:sinescreens}
 \end{figure}
 
 \begin{figure}[h]
   \centering
-  \includegraphics[width=.5\textwidth]{figures/placeholderImg.jpg}
-  \caption[triangular stimuli screenshots]{Screenshots of the triangular motion stimuli (s2)}
+  \includegraphics[width=.9\textwidth]{figures/stimulitarget-10.jpg}
+  \caption[Triangular stimuli screenshots]{Scheme of the triangular motion stimuli (s2)}
   \label{fig:triangscreens}
 \end{figure}
 
@@ -111,8 +109,8 @@ The Processing 3 code generates an array with all the velocity and direction pro
 
 \begin{figure}[h]
   \centering
-  \includegraphics[width=.5\textwidth]{figures/placeholderImg.jpg}
-  \caption[step-ramp stimuli screenshots]{Screenshots of the step-ramp stimuli (s3)}
+  \includegraphics[width=.9\textwidth]{figures/stimulitarget-11.jpg}
+  \caption[Step-ramp stimuli screenshots]{Scheme for of the step-ramp stimuli (s3)}
   \label{fig:steprampscreens}
 \end{figure}
 
@@ -139,8 +137,8 @@ The number of repetitions was 15, in order to have a total length of the trial r
 
 \begin{figure}[h]
   \centering
-  \includegraphics[width=.5\textwidth]{figures/placeholderImg.jpg}
-  \caption[saccade stimuli screenshots]{Screenshots of the saccade stimuli (s4)}
+  \includegraphics[width=.8\textwidth]{figures/stimulitarget-12.jpg}
+  \caption[Saccade stimuli screenshots]{Scheme of the saccade stimuli (s4)}
   \label{fig:saccadescreens}
 \end{figure}
 
