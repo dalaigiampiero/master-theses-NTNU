@@ -1049,6 +1049,28 @@
   url      = {https://search.proquest.com/docview/205303911?accountid=12870},
 }
 
+@Article{randal1993smooth,
+  title    = {A Developmental Study of Smooth Pursuit Eye Movements in Normal Children from 7 to 15 Years of Age},
+  author   = {Randal G. Ross and Allen D. Radant and Daniel W. Hommer},
+  year     = {1993},
+  journal  = {Journal of the American Academy of Child \& Adolescent Psychiatry},
+  volume   = {32},
+  number   = {4},
+  pages    = {783 - 791},
+  issn     = {0890-8567},
+  doi      = {https://doi.org/10.1097/00004583-199307000-00012},
+  abstract = {Objective
+To examine age-related changes in smooth pursuit tracking.
+Method
+Using infrared occulography, smooth pursuit eye movements are examined in 53 normal 7− to 15-year-old children during 6° and 12°/second visual pursuit. In addition to smooth pursuit gain and saccadic frequency, measures of mean amplitude per second are introduced to facilitate comparison across age and target speed.
+Results
+The 6°/second task is found to be easier than the 12°/second task. Age is correlated with smooth pursuit system performance but not saccadic system performance during 12°/second pursuit. No measure correlates with age during 6°/second pursuit.
+Conclusions
+Eye movements improve as children age. The future use of smooth pursuit eye movements to study children and adolescents with and at risk for schizophrenia must control for developmental changes.},
+  keywords = {eye movements, smooth pursuit, children, adolescents},
+  url      = {http://www.sciencedirect.com/science/article/pii/S0890856709648681},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}
 
 @Comment{jabref-meta: grouping:
